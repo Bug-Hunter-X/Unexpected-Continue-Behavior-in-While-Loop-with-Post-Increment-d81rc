@@ -1,0 +1,3 @@
+This repository demonstrates an uncommon bug in Java related to the interaction between a `continue` statement, a `while` loop, and post-increment in the loop condition. The bug leads to unexpected iteration behavior that might not be immediately apparent.
+
+The `bug.java` file shows the original code exhibiting the issue. The `bugSolution.java` file provides a corrected version, explaining the issue and how to avoid it in the future.
